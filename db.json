@@ -1,0 +1,55 @@
+{
+  "users": [
+    {
+      "id": "125d08ac-0af0-4fa4-a282-c66aa56ae778",
+      "firstname": "John",
+      "lastname": "Doe",
+      "username": "john",
+      "password": "doe"
+    },
+    {
+      "id": "95691050-c723-422f-a3b2-8fbecb64f8ca",
+      "firstname": "Sushant",
+      "lastname": "Jadhav",
+      "username": "sushant",
+      "password": "jadhav"
+    },
+    {
+      "firstname": "ramesh1",
+      "lastname": "powar",
+      "username": "ramesh",
+      "password": "powar",
+      "id": "b61c61dc-3708-4665-96e6-23699dc345cb"
+    }
+  ],
+  "employees": [
+    {
+      "id": "1",
+      "firstname": "Tushar",
+      "lastname": "Chavan",
+      "salary": "5000",
+      "designation": "Jr. developer"
+    },
+    {
+      "id": "2",
+      "firstname": "Rohit",
+      "lastname": "Hedda",
+      "salary": "10000",
+      "designation": "Sr. developer"
+    },
+    {
+      "id": "3",
+      "firstname": "Vishal",
+      "lastname": "Patil",
+      "salary": "15000",
+      "designation": "Jr. Manager"
+    },
+    {
+      "id": "4",
+      "firstname": "Ramesh",
+      "lastname": "Power",
+      "salary": "20000",
+      "designation": "Sr. Manager"
+    }
+  ]
+}
